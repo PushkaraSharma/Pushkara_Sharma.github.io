@@ -1,0 +1,7 @@
+- name: Machine Learning
+  percentage: 90
+  color: info
+
+- name: Mobile App Development
+  percentage: 70
+  color: success
